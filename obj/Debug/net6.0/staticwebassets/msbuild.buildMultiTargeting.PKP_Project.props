@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PKP_Project.props" />
+</Project>
